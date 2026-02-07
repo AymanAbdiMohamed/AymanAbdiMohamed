@@ -1,5 +1,7 @@
 <h1 align="center">Ayman Abdi</h1>
 <p align="center">Full-stack developer · Kenya</p>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
 
 - Currently working on: **[StepLockPhone](https://github.com/AymanAbdiMohamed/StepLockPhone-1)**
 - Learning: **TypeScript, Flutter(dart), Python**
