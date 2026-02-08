@@ -1,9 +1,7 @@
 <h1 align="center">Ayman Abdi</h1>
 <p align="center">Full-stack Developer · Kenya</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AymanAbdiMohamed&color=blue" alt="Profile Views" />
-</p>
+
 
 ---
 
