@@ -19,7 +19,7 @@
 React, Tailwind CSS, JavaScript, TypeScript  
 
 **Backend:**  
-Node.js, Express, Python (Flask, FastAPI)  
+Node.js, Python (Flask, FastAPI)  
 
 **Mobile:**  
 Flutter (Dart)  
@@ -28,4 +28,4 @@ Flutter (Dart)
 PostgreSQL, SQLite  
 
 **Tools & Environment:**  
-Git, Docker, Linux
+Git, Linux
